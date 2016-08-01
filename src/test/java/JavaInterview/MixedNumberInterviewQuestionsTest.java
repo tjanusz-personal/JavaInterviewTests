@@ -10,9 +10,6 @@ import java.util.List;
 
 import static org.junit.Assert.*;
 
-/**
- * Created by tjanusz929 on 6/22/16.
- */
 public class MixedNumberInterviewQuestionsTest {
     private MixedNumberInterviewQuestions series;
 

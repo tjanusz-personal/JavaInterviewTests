@@ -71,7 +71,7 @@ public class MixedNumberInterviewQuestions {
         if (theNumber == 0)
             return 1;
 
-        return theNumber * calculateFactorial(theNumber - 1);
+        return theNumber * calculateFactorialRec(theNumber - 1);
     }
 
 }
