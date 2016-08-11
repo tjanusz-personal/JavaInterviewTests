@@ -50,5 +50,20 @@ public class FizzBuzz {
         return theIntArray;
     }
 
+    public int[] bubbleSort(int[] theIntArray) {
+        for (int outerCounter = 0; outerCounter < theIntArray.length -1; outerCounter++)
+        {
+            for (int innerCounter = 1; innerCounter < theIntArray.length - outerCounter; innerCounter++)
+            {
+                if (theIntArray[innerCounter - 1] > theIntArray[innerCounter]) {
+                    int tempHolder = theIntArray[innerCounter];
+                    theIntArray[innerCounter] = theIntArray[innerCounter - 1];
+                    theIntArray[innerCounter - 1] = tempHolder;
+                }
+            }
+        }
+        return theIntArray;
+    }
+
 
 }

@@ -5,16 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af3e18c9-71a0-47a2-b54f-4d5df82d5b98" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/pl_pragmatists_JUnitParams_1_0_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/JavaInterview/NumberFun.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/JavaInterview/StringPuzzles.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/JavaInterview/NumberFunTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/JavaInterview/StringPuzzlesTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaInterviewTests.iml" afterPath="$PROJECT_DIR$/JavaInterviewTests.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/JavaInterview/MixedNumberInterviewQuestions.java" afterPath="$PROJECT_DIR$/src/main/java/JavaInterview/MixedNumberInterviewQuestions.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/JavaInterview/FizzBuzz.java" afterPath="$PROJECT_DIR$/src/main/java/JavaInterview/FizzBuzz.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/JavaInterview/NumberFun.java" afterPath="$PROJECT_DIR$/src/main/java/JavaInterview/NumberFun.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/JavaInterview/StringPuzzles.java" afterPath="$PROJECT_DIR$/src/main/java/JavaInterview/StringPuzzles.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/JavaInterview/FizzBuzzTest.java" afterPath="$PROJECT_DIR$/src/test/java/JavaInterview/FizzBuzzTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/JavaInterview/MixedNumberInterviewQuestionsTest.java" afterPath="$PROJECT_DIR$/src/test/java/JavaInterview/MixedNumberInterviewQuestionsTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/JavaInterview/NumberFunTest.java" afterPath="$PROJECT_DIR$/src/test/java/JavaInterview/NumberFunTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/JavaInterview/StringPuzzlesTest.java" afterPath="$PROJECT_DIR$/src/test/java/JavaInterview/StringPuzzlesTest.java" />
     </list>
     <ignored path="JavaInterviewTests.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,7 +23,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -36,35 +32,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="StringPuzzles.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterview/StringPuzzles.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StringPuzzlesTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/JavaInterview/StringPuzzlesTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="30" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="NumberFun.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterview/NumberFun.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="39" column="50" selection-start-line="39" selection-start-column="50" selection-end-line="39" selection-end-column="50" />
+            <state relative-caret-position="305">
+              <caret line="143" column="46" selection-start-line="143" selection-start-column="46" selection-end-line="143" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -75,12 +47,9 @@
       <file leaf-file-name="NumberFunTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/JavaInterview/NumberFunTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="62" column="21" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="21" />
-              <folding>
-                <element signature="e#485#486#0" expanded="true" />
-                <element signature="e#528#529#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="185">
+              <caret line="180" column="17" selection-start-line="180" selection-start-column="17" selection-end-line="180" selection-end-column="17" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -118,14 +87,14 @@
         <option value="$PROJECT_DIR$/src/main/java/JavaInterview/Person.java" />
         <option value="$PROJECT_DIR$/src/test/java/JavaInterview/PersonTest.java" />
         <option value="$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class" />
-        <option value="$PROJECT_DIR$/src/main/java/JavaInterview/FizzBuzz.java" />
         <option value="$PROJECT_DIR$/src/main/java/JavaInterview/FibonacciSeries.java" />
-        <option value="$PROJECT_DIR$/src/main/java/JavaInterview/StringPuzzles.java" />
         <option value="$PROJECT_DIR$/src/main/java/JavaInterview/StringPuzzlesTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/JavaInterview/StringPuzzlesTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/JavaInterview/FizzBuzzTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/JavaInterview/MixedNumberInterviewQuestionsTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/JavaInterview/MixedNumberInterviewQuestions.java" />
+        <option value="$PROJECT_DIR$/src/test/java/JavaInterview/StringPuzzlesTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/JavaInterview/StringPuzzles.java" />
+        <option value="$PROJECT_DIR$/src/test/java/JavaInterview/FizzBuzzTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/JavaInterview/FizzBuzz.java" />
         <option value="$PROJECT_DIR$/src/main/java/JavaInterview/NumberFun.java" />
         <option value="$PROJECT_DIR$/src/test/java/JavaInterview/NumberFunTest.java" />
       </list>
@@ -168,7 +137,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -229,8 +197,9 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -261,59 +230,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.NumberFunTest">
-    <configuration default="false" name="MixedNumberInterviewQuestionsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="test.java.JavaInterview.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="JavaInterviewTests" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="test.java.JavaInterview" />
-      <option name="MAIN_CLASS_NAME" value="test.java.JavaInterview.MixedNumberInterviewQuestionsTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="NumberFunTest.findDuplicateFindsDuplicateIntegerInList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="test.java.JavaInterview.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="JavaInterviewTests" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="test.java.JavaInterview" />
-      <option name="MAIN_CLASS_NAME" value="test.java.JavaInterview.NumberFunTest" />
-      <option name="METHOD_NAME" value="findDuplicateFindsDuplicateIntegerInList" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JUnit.NumberFunTest.returnDistinctOnlyReturnsUniqueList">
     <configuration default="false" name="NumberFunTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -340,7 +257,7 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="MixedNumberInterviewQuestionsTest.calculateFactorialRecReturnsCorrectResultsForFive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="FizzBuzzTest.bubbleSortSortsCorrectly" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="test.java.JavaInterview.*" />
@@ -351,8 +268,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="test.java.JavaInterview" />
-      <option name="MAIN_CLASS_NAME" value="test.java.JavaInterview.MixedNumberInterviewQuestionsTest" />
-      <option name="METHOD_NAME" value="calculateFactorialRecReturnsCorrectResultsForFive" />
+      <option name="MAIN_CLASS_NAME" value="test.java.JavaInterview.FizzBuzzTest" />
+      <option name="METHOD_NAME" value="bubbleSortSortsCorrectly" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -366,7 +283,59 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="NumberFunTest.reverseNumberReturnsNumberReversed" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="FizzBuzzTest.bubbleSortSortsCorrectlyWithSequentialNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="test.java.JavaInterview.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="JavaInterviewTests" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="test.java.JavaInterview" />
+      <option name="MAIN_CLASS_NAME" value="test.java.JavaInterview.FizzBuzzTest" />
+      <option name="METHOD_NAME" value="bubbleSortSortsCorrectlyWithSequentialNumbers" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="FizzBuzzTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="test.java.JavaInterview.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="JavaInterviewTests" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="test.java.JavaInterview" />
+      <option name="MAIN_CLASS_NAME" value="test.java.JavaInterview.FizzBuzzTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="NumberFunTest.returnDistinctOnlyReturnsUniqueList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="test.java.JavaInterview.*" />
@@ -378,7 +347,7 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="test.java.JavaInterview" />
       <option name="MAIN_CLASS_NAME" value="test.java.JavaInterview.NumberFunTest" />
-      <option name="METHOD_NAME" value="reverseNumberReturnsNumberReversed" />
+      <option name="METHOD_NAME" value="returnDistinctOnlyReturnsUniqueList" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -411,11 +380,19 @@
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
       <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
       <option name="USE_LAST_SELECTED_DEVICE" value="false" />
       <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
-      <method />
+      <method>
+        <option name="Make" enabled="true" />
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
@@ -431,9 +408,17 @@
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
       <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
       <option name="USE_LAST_SELECTED_DEVICE" value="false" />
       <option name="PREFERRED_AVD" value="" />
-      <method />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <method>
+        <option name="Make" enabled="true" />
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
@@ -640,19 +625,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.MixedNumberInterviewQuestionsTest" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.NumberFunTest.findDuplicateFindsDuplicateIntegerInList" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.NumberFunTest" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.MixedNumberInterviewQuestionsTest.calculateFactorialRecReturnsCorrectResultsForFive" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.NumberFunTest.reverseNumberReturnsNumberReversed" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.NumberFunTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.FizzBuzzTest.bubbleSortSortsCorrectly" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.FizzBuzzTest.bubbleSortSortsCorrectlyWithSequentialNumbers" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.FizzBuzzTest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.NumberFunTest.returnDistinctOnlyReturnsUniqueList" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.NumberFunTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.NumberFunTest.reverseNumberReturnsNumberReversed" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.MixedNumberInterviewQuestionsTest" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.MixedNumberInterviewQuestionsTest.calculateFactorialRecReturnsCorrectResultsForFive" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.NumberFunTest.findDuplicateFindsDuplicateIntegerInList" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.NumberFunTest.returnDistinctOnlyReturnsUniqueList" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.FizzBuzzTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.FizzBuzzTest.bubbleSortSortsCorrectlyWithSequentialNumbers" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.FizzBuzzTest.bubbleSortSortsCorrectly" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.NumberFunTest" />
       </list>
     </recent_temporary>
   </component>
@@ -673,35 +658,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MixedNumberInterviewQuestionsTest - 2016.08.01 at 11h 24m 04s.xml">
-      <configuration name="MixedNumberInterviewQuestionsTest" configurationId="JUnit" />
+    <history-entry file="FizzBuzzTest - 2016.08.10 at 13h 02m 23s.xml">
+      <configuration name="FizzBuzzTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MixedNumberInterviewQuestionsTest_calculateFactorialRecReturnsCorrectResultsForFive - 2016.08.01 at 11h 24m 01s.xml">
-      <configuration name="MixedNumberInterviewQuestionsTest.calculateFactorialRecReturnsCorrectResultsForFive" configurationId="JUnit" />
+    <history-entry file="FizzBuzzTest_bubbleSortSortsCorrectly - 2016.08.10 at 12h 58m 17s.xml">
+      <configuration name="FizzBuzzTest.bubbleSortSortsCorrectly" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NumberFunTest - 2016.08.01 at 10h 48m 34s.xml">
+    <history-entry file="FizzBuzzTest_bubbleSortSortsCorrectlyWithSequentialNumbers - 2016.08.10 at 13h 02m 19s.xml">
+      <configuration name="FizzBuzzTest.bubbleSortSortsCorrectlyWithSequentialNumbers" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NumberFunTest - 2016.08.10 at 07h 39m 10s.xml">
       <configuration name="NumberFunTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NumberFunTest - 2016.08.01 at 10h 50m 59s.xml">
+    <history-entry file="NumberFunTest - 2016.08.10 at 12h 47m 23s.xml">
       <configuration name="NumberFunTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NumberFunTest - 2016.08.01 at 11h 37m 29s.xml">
-      <configuration name="NumberFunTest" configurationId="JUnit" />
+    <history-entry file="NumberFunTest_isPrimeNumberReturnsTrueForSimplePrimes - 2016.08.10 at 12h 46m 47s.xml">
+      <configuration name="NumberFunTest.isPrimeNumberReturnsTrueForSimplePrimes" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NumberFunTest_reverseNumberReturnsNumberReversed - 2016.08.01 at 11h 31m 17s.xml">
-      <configuration name="NumberFunTest.reverseNumberReturnsNumberReversed" configurationId="JUnit" />
+    <history-entry file="NumberFunTest_returnDistinctOnlyReturnsUniqueList - 2016.08.10 at 13h 08m 46s.xml">
+      <configuration name="NumberFunTest.returnDistinctOnlyReturnsUniqueList" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NumberFunTest_reverseNumberReturnsNumberReversed - 2016.08.01 at 11h 34m 28s.xml">
-      <configuration name="NumberFunTest.reverseNumberReturnsNumberReversed" configurationId="JUnit" />
+    <history-entry file="NumberFunTest_sumOfPrimesUpToReturnsCorrectTotal - 2016.08.10 at 07h 45m 30s.xml">
+      <configuration name="NumberFunTest.sumOfPrimesUpToReturnsCorrectTotal" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NumberFunTest_reverseNumberReturnsNumberReversed - 2016.08.01 at 11h 34m 38s.xml">
-      <configuration name="NumberFunTest.reverseNumberReturnsNumberReversed" configurationId="JUnit" />
+    <history-entry file="NumberFunTest_sumOfPrimesUpToReturnsCorrectTotal - 2016.08.10 at 07h 45m 51s.xml">
+      <configuration name="NumberFunTest.sumOfPrimesUpToReturnsCorrectTotal" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NumberFunTest_reverseNumberReturnsNumberReversed - 2016.08.01 at 11h 36m 54s.xml">
-      <configuration name="NumberFunTest.reverseNumberReturnsNumberReversed" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="NumberFunTest_reverseNumberReturnsNumberReversed - 2016.08.01 at 11h 37m 25s.xml">
-      <configuration name="NumberFunTest.reverseNumberReturnsNumberReversed" configurationId="JUnit" />
+    <history-entry file="NumberFunTest_sumOfPrimesUpToReturnsCorrectTotalForFour - 2016.08.09 at 16h 17m 47s.xml">
+      <configuration name="NumberFunTest.sumOfPrimesUpToReturnsCorrectTotalForFour" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -710,13 +695,13 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935917" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884902" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32884902" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32935917" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -724,8 +709,8 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39910313" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39940387" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -750,12 +735,12 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/JavaInterview/NumberFunTest.java</url>
-          <line>28</line>
+          <line>27</line>
           <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="5" />
+      <option name="time" value="7" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -764,6 +749,112 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterview/StringPuzzles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="76" column="18" selection-start-line="76" selection-start-column="18" selection-end-line="76" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterview/NumberFun.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1830">
+          <caret line="131" column="0" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/JavaInterview/NumberFunTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1890">
+          <caret line="138" column="34" selection-start-line="138" selection-start-column="34" selection-end-line="138" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/JavaInterview/StringPuzzlesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="19" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterview/StringPuzzles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="76" column="18" selection-start-line="76" selection-start-column="18" selection-end-line="76" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterview/NumberFun.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1830">
+          <caret line="131" column="0" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/JavaInterview/NumberFunTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/JavaInterview/StringPuzzlesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="19" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterview/StringPuzzles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterview/NumberFun.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="16" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/JavaInterview/StringPuzzlesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1635">
+          <caret line="125" column="0" selection-start-line="125" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterview/StringPuzzles.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -780,8 +871,6 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#406#407#0" expanded="true" />
-            <element signature="e#451#452#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -790,7 +879,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="750">
           <caret line="57" column="1" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -805,11 +893,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1080">
           <caret line="87" column="19" selection-start-line="87" selection-start-column="19" selection-end-line="87" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#3015#3016#0" expanded="true" />
-            <element signature="e#3078#3079#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -817,9 +900,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -827,7 +907,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="750">
           <caret line="57" column="1" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -842,11 +921,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1080">
           <caret line="87" column="19" selection-start-line="87" selection-start-column="19" selection-end-line="87" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#3015#3016#0" expanded="true" />
-            <element signature="e#3078#3079#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -854,9 +928,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -864,7 +935,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="750">
           <caret line="57" column="1" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -889,20 +959,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterview/HelloWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterview/FizzBuzz.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../lambda_junk/test/com/company/Java8ComparatorTests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -910,29 +966,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterview/StringReplacer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterview/StringPuzzles.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/JavaInterview/StringReplacerTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -940,7 +977,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -948,15 +984,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/JavaInterview/FizzBuzzTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -964,7 +991,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="101">
           <caret line="208" column="0" selection-start-line="208" selection-start-column="0" selection-end-line="208" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -972,46 +998,82 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/JavaInterview/MixedNumberInterviewQuestionsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="75" column="5" selection-start-line="75" selection-start-column="5" selection-end-line="75" selection-end-column="5" />
+        <state relative-caret-position="365">
+          <caret line="98" column="1" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/JavaInterview/StringPuzzlesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="19" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#3015#3016#0" expanded="true" />
-            <element signature="e#3078#3079#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterview/MixedNumberInterviewQuestions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="73" column="48" selection-start-line="73" selection-start-column="48" selection-end-line="73" selection-end-column="48" />
+        <state relative-caret-position="135">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterview/StringPuzzles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="78" column="0" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterview/StringReplacer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterview/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+          <folding>
+            <element signature="e#165#166#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/JavaInterview/FizzBuzzTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="67" column="0" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterview/FizzBuzz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="66" column="0" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/JavaInterview/NumberFun.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="39" column="50" selection-start-line="39" selection-start-column="50" selection-end-line="39" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/JavaInterview/StringPuzzlesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="30" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        <state relative-caret-position="305">
+          <caret line="143" column="46" selection-start-line="143" selection-start-column="46" selection-end-line="143" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1020,12 +1082,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/JavaInterview/NumberFunTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="62" column="21" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="21" />
-          <folding>
-            <element signature="e#485#486#0" expanded="true" />
-            <element signature="e#528#529#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="185">
+          <caret line="180" column="17" selection-start-line="180" selection-start-column="17" selection-end-line="180" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>

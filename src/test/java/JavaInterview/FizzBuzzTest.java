@@ -58,4 +58,20 @@ public class FizzBuzzTest {
         assertArrayEquals(sortedArray, actualArray);
     }
 
+    @Test
+    public void bubbleSortSortsCorrectly() {
+        int[] rawArray = new int[] { 9, 1, 7, 3, 2};
+        int[] sortedArray = new int[] { 1, 2, 3, 7, 9};
+        int[] actualArray = fizzer.bubbleSort(rawArray);
+        assertArrayEquals(sortedArray, actualArray);
+    }
+
+    @Test
+    public void bubbleSortSortsCorrectlyWithSequentialNumbers() {
+        int[] rawArray = new int[] { 5, 4, 3, 2, 1};
+        int[] sortedArray = new int[] { 1, 2, 3, 4, 5};
+        int[] actualArray = fizzer.bubbleSort(rawArray);
+        assertArrayEquals(sortedArray, actualArray);
+    }
+
 }
